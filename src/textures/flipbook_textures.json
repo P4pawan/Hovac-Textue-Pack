@@ -1,0 +1,129 @@
+[
+  {
+    "flipbook_texture": "textures/blocks/animation/furnace_front_on",
+    "atlas_tile": "furnace_front_on",
+    "ticks_per_frame": 10
+  },
+  {
+    "flipbook_texture": "textures/blocks/animation/furnace_top_on",
+    "atlas_tile": "furnace_top_on",
+    "ticks_per_frame": 10
+  },
+  {
+    "flipbook_texture": "textures/blocks/animation/furnace_side_on",
+    "atlas_tile": "furnace_side_on",
+    "ticks_per_frame": 10
+  },
+  {
+    "flipbook_texture": "textures/blocks/animation/blast_furnace_side_on",
+    "atlas_tile": "blast_furnace_side_on",
+    "ticks_per_frame": 10
+  },
+  {
+    "flipbook_texture": "textures/blocks/animation/blast_furnace_top_on",
+    "atlas_tile": "blast_furnace_top_on",
+    "ticks_per_frame": 10
+  },
+  {
+    "flipbook_texture": "textures/blocks/smoker_top_on",
+    "atlas_tile": "smoker_top_on",
+    "ticks_per_frame": 10
+  },
+  {
+    "flipbook_texture": "textures/blocks/smoker_side_on",
+    "atlas_tile": "smoker_side_on",
+    "ticks_per_frame": 10
+  },
+  {
+    "flipbook_texture": "textures/blocks/animation/beetroots_stage_3",
+    "atlas_tile": "beetroot",
+    "atlas_index": 3,
+    "frames": [0, 1, 2, 3, 4, 5, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+  },
+  {
+    "flipbook_texture": "textures/blocks/animation/carrots_stage_3",
+    "atlas_tile": "carrots",
+    "atlas_index": 3,
+    "frames": [0, 1, 2, 3, 4, 5, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+  },
+  {
+    "flipbook_texture": "textures/blocks/animation/nether_wart_stage_2",
+    "atlas_tile": "nether_wart",
+    "atlas_index": 3,
+    "frames": [0, 1, 2, 3, 4, 5, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+  },
+  {
+    "flipbook_texture": "textures/blocks/animation/potatoes_stage_3",
+    "atlas_tile": "potatoes",
+    "atlas_index": 3,
+    "frames": [0, 1, 2, 3, 4, 5, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+  },
+  {
+    "flipbook_texture": "textures/blocks/animation/sweet_berry_bush_stage3",
+    "atlas_tile": "sweet_berry_bush_3",
+    "frames": [0, 1, 2, 3, 4, 5, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+  },
+  {
+    "flipbook_texture": "textures/blocks/animation/wheat_stage_7",
+    "atlas_tile": "wheat",
+    "atlas_index": 7,
+    "frames": [0, 1, 2, 3, 4, 5, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+  },
+  {
+    "flipbook_texture": "textures/blocks/animation/amethyst_cluster",
+    "atlas_tile": "amethyst_cluster",
+    "frames": [0, 1, 2, 3, 4, 5, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+  },
+  {
+    "flipbook_texture": "textures/blocks/animation/age_25_kelp",
+    "atlas_index": 25,
+    "atlas_tile": "kelp_top_bulb",
+    "ticks_per_frame": 4,
+    "frames": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19],
+    "blend_frames": true
+  },
+  {
+    "flipbook_texture": "textures/blocks/animation/age_25_kelp",
+    "atlas_index": 25,
+    "atlas_tile": "kelp_top",
+    "ticks_per_frame": 4,
+    "frames": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19],
+    "blend_frames": true
+  },
+  {
+    "flipbook_texture": "textures/blocks/endframe_top_on",
+    "atlas_tile": "endframe_top",
+    "atlas_index": 5,
+    "frames": [7, 6, 5, 4, 3, 2, 1, 0],
+    "ticks_per_frame": 1,
+    "blend_frames": true
+  },
+  {
+    "flipbook_texture": "textures/blocks/endframe_side_on",
+    "atlas_tile": "endframe_side_north",
+    "atlas_index": 6,
+    "frames": [7, 6, 5, 4, 3, 2, 1, 0],
+    "ticks_per_frame": 1
+  },
+  {
+    "flipbook_texture": "textures/blocks/endframe_side_on",
+    "atlas_tile": "endframe_side_east",
+    "atlas_index": 7,
+    "frames": [7, 6, 5, 4, 3, 2, 1, 0],
+    "ticks_per_frame": 1
+  },
+  {
+    "flipbook_texture": "textures/blocks/endframe_side_on",
+    "atlas_tile": "endframe_side_south",
+    "atlas_index": 4,
+    "frames": [7, 6, 5, 4, 3, 2, 1, 0],
+    "ticks_per_frame": 1
+  },
+  {
+    "flipbook_texture": "textures/blocks/endframe_side_on",
+    "atlas_tile": "endframe_side_west",
+    "atlas_index": 5,
+    "frames": [7, 6, 5, 4, 3, 2, 1, 0],
+    "ticks_per_frame": 1
+  }
+]
