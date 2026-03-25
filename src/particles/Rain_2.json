@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "particle_effect": {
     "description": {
-      "identifier": "Noahmod:rain_drop_main",
+      "identifier": "Hovacmod:rain_drop_main",
       "basic_render_parameters": {
         "material": "particles_alpha",
         "texture": "textures/particle/rain_drop"
@@ -11,7 +11,7 @@
     "events": {
       "on_drop_hit": {
         "particle_effect": {
-          "effect": "Noahmod:rain_splash_core",
+          "effect": "Hovacmod:rain_splash_core",
           "type": "particle"
         }
       }

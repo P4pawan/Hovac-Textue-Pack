@@ -218,7 +218,7 @@
                     "$toggle_name": "more",
                     "$toggle_view_binding_name": "more",
                     "size": [32,32],
-                    "$button_content": "bui_start.NoahFix",
+                    "$button_content": "bui_start.Hovac",
                     "anchor_from": "top_left",
                     "anchor_to": "top_left"
                 }
@@ -401,9 +401,9 @@
         "texture": "textures/ui/achievements",
         "size": [ 16, 16 ]
     },
-    "bui_start.NoahFix": {
+    "bui_start.Hovac": {
     "type": "image",
-    "texture": "textures/ui/NoahFix",
+    "texture": "textures/ui/Hovac",
     "size": [ 32, 32 ]
     }
 

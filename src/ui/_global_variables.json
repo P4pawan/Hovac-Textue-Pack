@@ -1,4 +1,4 @@
-
+/* Hovac भाई टॉप पर */
 {
 //tab or F10
   "$playerlist_key|default": "tab" ,
@@ -7,5 +7,8 @@
   "$main_menu_button_hover_color": [ 1.0, 1.0, 1.0 ], 
   "$main_menu_button_preesed_color": [ 1.0, 1.0, 1.0 ], 
   "$main_menu_button_locked_color": [ 0.62, 0.62, 0.62 ],  
-  "$chat_size": [ "40%", 180 ]
+  "$chat_size": [ "40%", 180 ],
+  "$total_inventory_frames": "10_frames",
+  "$inventory_duration_per_frame": 0.06,
+  "$inventory_base_resolution": [ 352, 332 ]
 }
