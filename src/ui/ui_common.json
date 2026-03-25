@@ -40,7 +40,7 @@
     "setwarp_screen": {
     "type": "image",
     "fill": true,
-    "texture": "textures/minecraft_bg/lod"
+    "texture": "textures/minecraft_bg/load"
 	},
 	
 	"screen_exit_animation_push_alpha": {

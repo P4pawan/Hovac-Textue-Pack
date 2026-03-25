@@ -2,6 +2,12 @@
   "ui_defs": [
     "new_ui/start.json",
     "new_ui/animations.json",
+
+    ////////*/ Animated Sections /*////////
+
+    "uidx/animated_ui/modified_inventory_screen.uidx",
+    "uidx/animated_ui/custom_anim_inventory_bg.uidx",
+    "uidx/animated_ui/inventory_bg_base.uidx",
 //chat UI
     "new_ui/common_sections/ui_common.json",
     "new_ui/common_sections/ui_template_menus.json",

@@ -2,7 +2,7 @@
   "format_version": "1.10.0",
   "particle_effect": {
     "description": {
-      "identifier": "Noahmod:rain_splash_core",
+      "identifier": "Hovacmod:rain_splash_core",
       "basic_render_parameters": {
         "material": "particles_blend",
         "texture": "textures/particle/rain_splash"
@@ -11,7 +11,7 @@
     "events": {
       "on_splash_emit": {
         "particle_effect": {
-          "effect": "Noahmod:rain_splash_ripple",
+          "effect": "Hovacmod:rain_splash_ripple",
           "type": "particle"
         }
       }

@@ -2,7 +2,7 @@
     "format_version": 2,
     "header": {
         "description": "§r§eThe Mixed texture pack §r§dcollected by §r§bSweatyHovac",
-        "name": "§r§aHovac's §dtexture §r§c§o§lV1.0",
+        "name": "§r§aHovac's §dtexture §r§c§o§lV2.0",
         "uuid": "694bc6fc-beb3-435d-8d69-8262d889ef7f",
         "version": [
             1,
@@ -11,7 +11,7 @@
         ],
         "min_engine_version": [
             1,
-            16,
+            20,
             0
         ],
         "author": "SweatyHovac",
@@ -47,8 +47,8 @@
             "memory_tier": 1
         },
         {
-            "folder_name": "GTA V",
-            "name": "GTA V",
+            "folder_name": "GTA_V",
+            "name": "GTA_V",
             "memory_tier": 1
         },
         {

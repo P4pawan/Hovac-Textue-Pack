@@ -1,7 +1,6 @@
 {
   "namespace": "common_menus_dx",
 
-  /*//// 菜單滑動模板 ////*/
 
   "java_scroll_box": {
     "type": "image",

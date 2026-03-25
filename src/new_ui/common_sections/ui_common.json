@@ -1,7 +1,6 @@
 {
   "namespace": "common_dx",
 
-  /*//// 文字////*/
 
   "text_edit_box@common.text_edit_box": {
     "$text_edit_box_label_anchor_point": "top_left",

@@ -63,7 +63,6 @@
     ]
   },
 
-  /*////// 主畫面toggles //////*/
 
   "main_button_toggle@common_toggles_dx.toggle_panel": {
     "$toggle_tts_name": "",
